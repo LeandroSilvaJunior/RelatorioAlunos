@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alunos</string>
+    <string name="aluno">Aluno</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
